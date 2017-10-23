@@ -1,1 +1,1 @@
-# UdacityDeepLearningProjects
+# Udacity Deep Learning Projects
